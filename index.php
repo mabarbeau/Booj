@@ -29,7 +29,7 @@
 									<li><a href="#" title="Office Locations" class="upper"><i class="icon icon-office vertical-middle"></i><span class="vertical-middle">Office Locations</span></a></li>
 								</ul>
 							</div>
-							<div class="navbar-header xs-margin-top-15 sm-pull-right">
+							<div class="navbar-header xs-margin-top-15 sm-pull-r	ight">
 								<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-main-collapse">
 									<span class="lines"></span>
 								</button>
@@ -242,13 +242,13 @@
 								</a>
 								<ul class="list-unstyled qs-menu" style="display: none;">
 									<li>
-										<a href="/search/view/New_Property/7" title="New Listings" class="upper">New Listings</a>
+										<a href="#" title="New Listings" class="upper">New Listings</a>
 									</li>
 									<li>
-										<a href="/search/view/company/on/open_house/on" title="Open Houses" class="upper">Open Houses</a>
+										<a href="#" title="Open Houses" class="upper">Open Houses</a>
 									</li>
 									<li>
-										<a href="/search/view/Property_Type/229" title="Rentals" class="upper">Rentals</a>
+										<a href="#" title="Rentals" class="upper">Rentals</a>
 									</li>
 									<li>
 										<a href="#" title="Map Search" class="upper">Map Search</a>
@@ -264,7 +264,7 @@
 			</div>
 		</div>
 	</header>
-	<div class="blank-header"></div>
+
 	<div class="container">
 		<div class="row md-margin-top-65 hidden-xs">
 			<div class="col-sm-10">
@@ -272,50 +272,36 @@
 					<li><a href="#" title="Home">home</a></li>
 					<li><a href="#" title="About">about</a></li>
 					<li><a href="#" title="Our Offices">our offices</a></li>
-					<li class="active">Point Loma office</li>
+					<li class="active">Downtown San Diego office</li>
 				</ul>
-
-			</div>
-			<div class="col-sm-2 text-right">
-				<a href="#" data-action="toggle-section" data-target="#addthis-container" title="Share" data-show-template="<i class='icon icon-caret-down font-20 vertical-middle no-underline'></i>share" data-hide-template="<i class='icon icon-caret-up font-20 vertical-middle no-underline'></i>share" class="inline-block margin-top-10 share-toggle-link"><i class="icon icon-caret-down font-20 vertical-middle no-underline"></i>share</a>
-				<div id="addthis-container" class="relative" style="display:none;">
-					<div class="addthis_toolbox addthis_default_style addthis_32x32_style text-right" >
-						<div style="clear: both;">
-							<a class="addthis_button_facebook"></a>
-							<a class="addthis_button_pinterest_share"></a>
-							<a class="addthis_button_twitter"></a>
-							<a class="addthis_button_email"></a>
-						</div>
-					</div>
-
-				</div>
 			</div>
 		</div>
 	</div>
 	<div class="office-bio-page">
 		<div class="container">
 			<div class="page-header">
-				<h1 class="sm-margin-top-30">Point Loma Office</h1>
+				<h1 class="sm-margin-top-30">Downtown San Diego office</h1>
 			</div>
 			<div class="row">
 				<div class="sm-margin-top-5 col-md-6 col-md-offset-1 col-lg-5 col-lg-offset-2 office-bio-photo">
 					<div id="office-gallery" class="slick-gallery margin-bottom-10">
-						<div class="slick-slide">
-							<img src="http://www.willisallen.com/images/ajax-loader.gif" data-lazy="http://media.cdn.willisallen.com/pics/office/695/2460//crop/920,690/" alt="Point Loma - Photo 1">
-						</div>
+						<img src="img/office.jpg"alt="Point Loma - Photo 1">
 					</div>
 				</div>
 				<div class="col-sm-5 col-md-4 col-lg-3 xs-margin-top-30 office-info">
 					<ul class="list-unstyled margin-bottom-30">
 						<li class="margin-bottom-5">2904 Canon St.</li>
 						<li class="margin-bottom-5">San Diego, CA 92106</li>
-						<li><a class="underline fancybox" data-fancybox-type="iframe" data-fancybox-width="900" data-fancybox-height="600" title="Driving Directions" target="_blank" rel="nofollow" href="/map_search/generic/directions/?action=directions&amp;to=2904%20Canon%20St.%20San%20Diego,%20CA&amp;lat=32.7211182&amp;lng=-117.23094909999998"><i class="icon icon-directions margin-right-5 no-underline font-18"></i>Driving Directions</a></li>
+						<li><a class="underline fancybox"><i class="icon icon-directions margin-right-5 no-underline font-18"></i>Driving Directions</a></li>
 					</ul>
 					<ul class="list-unstyled phone-list">
 						<li class="margin-bottom-5">Phone: 619.226.7800</li>
 						<li class="margin-bottom-5">Fax: 619.226.6187</li>
 						<li>
-							<a class="scroll-link underline" href="#contact-section" title="Contact the Point Loma Office"><i class="icon icon-email margin-right-5 vertical-middle no-underline font-18"></i>Email Us</a>
+							<a class="scroll-link underline" href="#contact-section" title="Contact the Point Loma Office">
+								<i class="icon icon-email margin-right-5 vertical-middle no-underline font-18"></i>
+								Email Us
+							</a>
 						</li>
 					</ul>
 					<a href="#agent-section" title="Agent Roster" class="scroll-link btn btn-block btn-primary margin-top-15">Agent Roster <i class="icon icon-chevron-right"></i></a>
@@ -325,17 +311,18 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
 					<div class="center-offset-block margin-top-40 cms-page">
-						<p><span id="docs-internal-guid-7d7a6ac7-843d-9ee3-bd6b-e80edcbe2052">Our Point Loma office is represented by some of the best agents in the business, all of whom are specialized and experienced working in the Point Loma and surrounding real estate markets. If you are in the neighborhood, please come in and see us. </span></p>
+						<p>
 
+						</p>
 					</div>
-					<a href="https://goo.gl/maps/xNiimPA4k6u" title="Tour this Office" class="btn btn-primary" target="_blank">Tour this Office <i class="icon icon-chevron-right"></i></a>
+					<a title="Tour this Office" class="btn btn-primary">Tour this Office <i class="icon icon-chevron-right"></i></a>
 					<ul class="list-unstyled row multi-columns-row margin-top-55">
 						<li class="col-sm-6 col-md-6 col-lg-6 margin-bottom-55">
 							<div class="manager-title-container">
 								<h3 class="margin-0">Branch Manager</h3>
 							</div>
 							<a class="agent-img-container" href="/agents/info/JudyKettenburg-Chayka" title="About Judy Kettenburg Chayka">
-								<img src="http://media.cdn.willisallen.com/pics/realtor/695890/110055//crop/264,351/" alt="Photo of Judy Kettenburg Chayka" srcset="http://media.cdn.willisallen.com/pics/realtor/695890/110055/crop/396,526/ 1.5x,http://media.cdn.willisallen.com/pics/realtor/695890/110055/crop/528,702/ 2x,http://media.cdn.willisallen.com/pics/realtor/695890/110055/crop/792,1053/ 3x,http://media.cdn.willisallen.com/pics/realtor/695890/110055/crop/1056,1404/ 4x">
+								<img src="img/agent-1.jpg" alt="Photo of Judy Kettenburg Chayka">
 								<div class="agent-name-overlay">
 									<h4 class="margin-0">Judy Kettenburg<br>Chayka<i class="icon icon-angle-right no-underline"></i></h4>
 								</div>
@@ -350,7 +337,7 @@
 									<h3 class="margin-0">E.V.P/Managing Broker</h3>
 								</div>
 								<a class="agent-img-container" href="/agents/info/BudClark" title="About Bud Clark">
-									<img src="http://media.cdn.willisallen.com/pics/realtor/695832/109953//crop/264,351/" alt="Photo of Bud Clark" srcset="http://media.cdn.willisallen.com/pics/realtor/695832/109953/crop/396,526/ 1.5x,http://media.cdn.willisallen.com/pics/realtor/695832/109953/crop/528,702/ 2x,http://media.cdn.willisallen.com/pics/realtor/695832/109953/crop/792,1053/ 3x,http://media.cdn.willisallen.com/pics/realtor/695832/109953/crop/1056,1404/ 4x">
+									<img src="img/agent-2.jpg">
 									<div class="agent-name-overlay">
 										<h4 class="margin-0">Bud<br>Clark<i class="icon icon-angle-right no-underline"></i></h4>
 									</div>
