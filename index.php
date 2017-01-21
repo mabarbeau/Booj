@@ -318,10 +318,16 @@
 				<div class="row">
 					<div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
 						<div class="center-offset-block margin-top-40 cms-page">
-							<p>
+							<h2>
 								Downtown San Diego, CA
+							</h2>
+							<p>
 								In 1869 Alonzo Horton, who many consider the father of San Diego, built a wharf at the foot of Fifth Avenue that cost about $45,000. On March 24, he sold $5,500 worth of commercial and residential lots in one day and San Diego began to boom. It took more than a hundred years for the revitalization to really catch on, and now San Diego has been transformed into one of the country’s newest and most dynamic metropolitan areas. “There is simply no other community like downtown San Diego in my opinion,” says downtown specialist Pat Edmondson. “I call it a small town-big city because it is so friendly. What I really enjoy is the ‘walkability’ of the city—everything here is accessible without a car. You can get to work, shopping, schools, recreation, entertainment, public transportation and much more all on foot.” Downtown San Diego is home to eight distinctive neighborhoods, including Core, Columbia, Cortez Hill, East Village, Gaslamp Quarter, Horton Plaza, Little Italy and Marina.
+							</p>
+							<h2>
 								About Our Office
+							</h2>
+							<p>
 								Our downtown San Diego office has been successfully assisting clients through the home buying and selling process since the beginning. The office is represented by more than 30 real estate agents, all of whom are specialized and extremely knowledgeable about the downtown San Diego market. If you are in the area, please don’t hesitate to stop by our office.
 							</p>
 						</div>
