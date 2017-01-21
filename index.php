@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Point Loma Real Estate Office</title>
+		<title>Downtown San Diego, Estate Office</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="alternate" type="application/rss+xml" title="RSS 2.0" >
 		<link rel="shortcut icon" href="http://www.willisallen.com/images/favicon.ico">
@@ -9,7 +9,7 @@
 		<link rel="stylesheet" href="/css/app.css" media="screen">
 		<link rel="stylesheet" href="/css/willis-allen.css" media="screen">
 		<link rel="stylesheet" href="/css/Gotham.css" media="screen">
-		<title>Point Loma Real Estate Office</title>
+		<title>Downtown San Diego, Estate Office</title>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	</head>
 
@@ -324,6 +324,7 @@
 						<a href="#" title="Office Listings" class="btn btn-block btn-primary margin-top-15">Office Listings <i class="icon icon-chevron-right"></i></a>
 					</div>
 				</div>
+
 				<div class="row">
 					<div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
 						<div class="center-offset-block margin-top-40 cms-page">
