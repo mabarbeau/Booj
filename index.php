@@ -8,6 +8,7 @@
 		<link rel="stylesheet" href="http://www.willisallen.com/css/non_bootstrap_styles.min.css">
 		<link rel="stylesheet" href="/css/app.css" media="screen">
 		<link rel="stylesheet" href="/css/willis-allen.css" media="screen">
+		<link rel="stylesheet" href="/css/Gotham.css" media="screen">
 		<title>Point Loma Real Estate Office</title>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	</head>
@@ -310,9 +311,6 @@
 								</a>
 							</li>
 						</ul>
-
-
-
 						<a href="#agent-section" title="Agent Roster" class="scroll-link btn btn-block btn-primary margin-top-15">Agent Roster <i class="icon icon-chevron-right"></i></a>
 						<a href="#" title="Office Listings" class="btn btn-block btn-primary margin-top-15">Office Listings <i class="icon icon-chevron-right"></i></a>
 					</div>
