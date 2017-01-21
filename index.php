@@ -3,7 +3,7 @@
 	<head>
 		<title>Point Loma Real Estate Office</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="#">
+		<link rel="alternate" type="application/rss+xml" title="RSS 2.0" >
 		<link rel="shortcut icon" href="http://www.willisallen.com/images/favicon.ico">
 		<link rel="stylesheet" href="http://www.willisallen.com/css/non_bootstrap_styles.min.css">
 		<link rel="stylesheet" href="/css/app.css" media="screen">
@@ -11,6 +11,7 @@
 		<title>Point Loma Real Estate Office</title>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	</head>
+
 	<body>
 		<header id="site-header" class="hidden-print box-shadow">
 			<div id="nav-container" class="bg-white">
@@ -30,7 +31,7 @@
 										<li><a href="#" title="Office Locations" class="upper"><i class="icon icon-office vertical-middle"></i><span class="vertical-middle">Office Locations</span></a></li>
 									</ul>
 								</div>
-								<div class="navbar-header xs-margin-top-15 sm-pull-r	ight">
+								<div class="navbar-header xs-margin-top-15 sm-pull-right">
 									<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-main-collapse">
 										<span class="lines"></span>
 									</button>
@@ -192,7 +193,7 @@
 													<a title="Contact Us" href="#"><i class="nav-arrow"></i>Contact Us</a>
 												</li>
 												<li>
-													<a title="Media" href="#"><i class="nav-arrow"></i>Media</a>
+													<a title="Media" ></i>Media</a>
 												</li>
 											</ul>
 										</li>
@@ -291,62 +292,74 @@
 					</div>
 					<div class="col-sm-5 col-md-4 col-lg-3 xs-margin-top-30 office-info">
 						<ul class="list-unstyled margin-bottom-30">
-							<li class="margin-bottom-5">2904 Canon St.</li>
-							<li class="margin-bottom-5">San Diego, CA 92106</li>
-							<li><a class="underline fancybox"><i class="icon icon-directions margin-right-5 no-underline font-18"></i>Driving Directions</a></li>
+							<li class="margin-bottom-5">
+								360 5th Avenue
+							</li>
+							<li class="margin-bottom-5">
+								San Diego, CA 92101
+							</li>
+							<li>
+								<a class="underline fancybox"> <i class="icon icon-directions margin-right-5 no-underline font-18"></i>Driving Directions</a>
+							</li>
 						</ul>
 						<ul class="list-unstyled phone-list">
-							<li class="margin-bottom-5">Phone: 619.226.7800</li>
-							<li class="margin-bottom-5">Fax: 619.226.6187</li>
+							<li class="margin-bottom-5">Phone: (619) 238-8065</li>
+							<li class="margin-bottom-5">Fax: (619) 238-8065</li>
 							<li>
-								<a class="scroll-link underline" href="#contact-section" title="Contact the Point Loma Office">
-									<i class="icon icon-email margin-right-5 vertical-middle no-underline font-18"></i>
-									Email Us
+								<a class="scroll-link underline" href="#contact-section" title="Contact the Point Loma Office"> <i class="icon icon-email margin-right-5 vertical-middle no-underline font-18"></i>Email Us
 								</a>
 							</li>
 						</ul>
+
+
+
 						<a href="#agent-section" title="Agent Roster" class="scroll-link btn btn-block btn-primary margin-top-15">Agent Roster <i class="icon icon-chevron-right"></i></a>
-						<a href="/search/view/office/point-loma" title="Office Listings" class="btn btn-block btn-primary margin-top-15">Office Listings <i class="icon icon-chevron-right"></i></a>
+						<a href="#" title="Office Listings" class="btn btn-block btn-primary margin-top-15">Office Listings <i class="icon icon-chevron-right"></i></a>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
 						<div class="center-offset-block margin-top-40 cms-page">
 							<p>
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+								Downtown San Diego, CA
+								In 1869 Alonzo Horton, who many consider the father of San Diego, built a wharf at the foot of Fifth Avenue that cost about $45,000. On March 24, he sold $5,500 worth of commercial and residential lots in one day and San Diego began to boom. It took more than a hundred years for the revitalization to really catch on, and now San Diego has been transformed into one of the country’s newest and most dynamic metropolitan areas. “There is simply no other community like downtown San Diego in my opinion,” says downtown specialist Pat Edmondson. “I call it a small town-big city because it is so friendly. What I really enjoy is the ‘walkability’ of the city—everything here is accessible without a car. You can get to work, shopping, schools, recreation, entertainment, public transportation and much more all on foot.” Downtown San Diego is home to eight distinctive neighborhoods, including Core, Columbia, Cortez Hill, East Village, Gaslamp Quarter, Horton Plaza, Little Italy and Marina.
+								About Our Office
+								Our downtown San Diego office has been successfully assisting clients through the home buying and selling process since the beginning. The office is represented by more than 30 real estate agents, all of whom are specialized and extremely knowledgeable about the downtown San Diego market. If you are in the area, please don’t hesitate to stop by our office.
 							</p>
 						</div>
 						<a title="Tour this Office" class="btn btn-primary">Tour this Office <i class="icon icon-chevron-right"></i></a>
 						<ul class="list-unstyled row multi-columns-row margin-top-55">
 							<li class="col-sm-6 col-md-6 col-lg-6 margin-bottom-55">
 								<div class="manager-title-container">
-									<h3 class="margin-0">Branch Manager</h3>
+									<h3 class="margin-0">office manager</h3>
 								</div>
-								<a class="agent-img-container" href="/agents/info/JudyKettenburg-Chayka" title="About Judy Kettenburg Chayka">
-									<img src="img/agent-1.jpg" alt="Photo of Judy Kettenburg Chayka">
+								<a class="agent-img-container" >
+									<img src="img/agent-1.jpg" alt="">
 									<div class="agent-name-overlay">
-										<h4 class="margin-0">Judy Kettenburg<br>Chayka<i class="icon icon-angle-right no-underline"></i></h4>
+										<h4 class="margin-0">Elizabeth<br> Pritscher-lewis<i class="icon icon-angle-right no-underline"></i></h4>
 									</div>
 								</a>
 								<ul class="list-unstyled agent-info-list margin-top-10">
-									<li><span class="h4">619.997.3012</span></li>
-									<li class="margin-bottom-10 margin-top-5"><a href="/popup/contact/realtor/JudyKettenburg-Chayka" title="Email Me" target="_blank" data-fancybox-type="iframe" data-fancybox-width="590" data-fancybox-height="auto" data-fancybox-padding="30" rel="nofollow" class="fancybox upper underline">Email Me</a></li>
-									<li class="margin-top-5 medium-light-gray">CalBRE# 01394260</li>									</ul>
+									<li><span class="h4">(858) 459-4033 </span></li>
+									<li class="margin-bottom-10 margin-top-5"><a href="#" class="fancybox upper underline">Email Me</a></li>
+									<li class="margin-top-5 medium-light-gray">CalBRE# 00123456</li>									</ul>
 								</li>
 								<li class="col-sm-6 col-md-6 col-lg-6 margin-bottom-55">
 									<div class="manager-title-container">
-										<h3 class="margin-0">E.V.P/Managing Broker</h3>
+										<h3 class="margin-0">Office broker</h3>
 									</div>
-									<a class="agent-img-container" href="/agents/info/BudClark" title="About Bud Clark">
+									<a class="agent-img-container" >
 										<img src="img/agent-2.jpg">
 										<div class="agent-name-overlay">
-											<h4 class="margin-0">Bud<br>Clark<i class="icon icon-angle-right no-underline"></i></h4>
+											<h4 class="margin-0">Kristina<br> Thomas<i class="icon icon-angle-right no-underline"></i></h4>
 										</div>
 									</a>
 									<ul class="list-unstyled agent-info-list margin-top-10">
-										<li><span class="h4">858.459.4033</span></li>
-										<li class="margin-bottom-10 margin-top-5"><a href="/popup/contact/realtor/BudClark" title="Email Me" target="_blank" data-fancybox-type="iframe" data-fancybox-width="590" data-fancybox-height="auto" data-fancybox-padding="30" rel="nofollow" class="fancybox upper underline">Email Me</a></li>
-										<li class="margin-top-5 medium-light-gray">CalBRE# 00924670</li>									</ul>
+
+
+										<li><span class="h4">(619) 248-4200</span></li>
+										<li class="margin-bottom-10 margin-top-5"><a href="#" class="fancybox upper underline">Email Me</a></li>
+										<li class="margin-top-5 medium-light-gray">CalBRE# 00123456</li>									</ul>
 									</li>
 
 								</ul>
@@ -468,8 +481,11 @@
 				</div>
 		</div>
 
-
 	</body>
+
+
+
+
 
 	<script src='app.js' type="text/javascript"></script>
 </html>
