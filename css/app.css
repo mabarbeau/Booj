@@ -1,3 +1,35 @@
 #main-wrapper{
   position: relative;
 }
+
+.gallery, .gallery-img{
+  width: 100%;
+}
+
+.gallery-controller{
+  position: absolute;
+  height: 100%;
+  display: flex;
+  right: 14px;
+  flex-direction: column;
+  justify-content: center;
+  left: 14px;
+}
+.next, .back{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  height: 48px;
+  width: 48px;
+  background: rgba(255, 255, 255, 0.75);;
+  font-size: 16px;
+  text-align: center;
+}
+
+.back{
+  align-self: flex-start;
+}
+.next{
+  align-self: flex-end;
+}

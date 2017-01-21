@@ -287,8 +287,17 @@
 				</div>
 				<div class="row">
 					<div class="sm-margin-top-5 col-md-6 col-md-offset-1 col-lg-5 col-lg-offset-2 office-bio-photo">
-						<div id="office-gallery" class="slick-gallery margin-bottom-10">
-							<img src="img/office.jpg"alt="Point Loma - Photo 1">
+						<div class="gallery">
+							<div class="gallery-controller">
+								<div class="back">
+									<i class="icon icon-chevron-left"></i>
+								</div>
+								<div class="next">
+									<i class="icon icon-chevron-right"></i>
+								</div>
+							</div>
+
+							<img class='gallery-img' src="/img/office-4x.jpg" alt="office"  srcset="/img/office-1.5x.jpg 1.5x, /img/office-2x.jpg 2x, /img/office-3x.jpg 3x, /img/office-4x.jpg 4x">
 						</div>
 					</div>
 					<div class="col-sm-5 col-md-4 col-lg-3 xs-margin-top-30 office-info">
